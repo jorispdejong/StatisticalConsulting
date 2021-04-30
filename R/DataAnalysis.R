@@ -9,12 +9,13 @@ source('Functions.R')
 
 # import data
 data_raw <- importData()
+data <- structureData(data_raw)
 
 # time series for NL
-NL_confirmed <- t(as.matrix(data_raw[197,5:ncol(data_raw)]))
-times_confirmed <- as.Date(rownames(NL_confirmed), '%m/%d/%y')
+NL_confirmed <- data$Netherlands$confirmed_cases
+times_confirmed <- data$Netherlands$t
 NL_daily <- diff(NL_confirmed)
-times_daily <- as.Date(rownames(NL_daily), '%m/%d/%y')
+times_daily <- times_confirmed[2:length(times_confirmed)]
   
 # plot time series
 par(mfrow=c(2,1), mar=c(3,3,2,2))
