@@ -6,12 +6,15 @@
 # if the files already exists then read the data from the files
 # restructure the data into a list
 # save as rdata file
-preprocessData <- function(verbose = T){
+preprocessData <- function(rdata_file_path, verbose = T){
   # library
   suppressPackageStartupMessages(library('readr')) # read csv
   
+  # create new folder that will hold the data
+  dir.create('data', showWarnings = F) # if it already exists will only throw an error
+  
   # folder name + file name and path
-  folder_name <- 'csv' 
+  folder_name <- 'data/csv' 
   
   # create new folder that will hold all the csv files
   dir.create(folder_name, showWarnings = F) # if it already exists will only throw an error
@@ -40,7 +43,7 @@ preprocessData <- function(verbose = T){
   # file name + path
   file_name_r <- 'time_series_covid19_recovered_global.csv'
   file_path_r <- paste0(folder_name, '/', file_name_r)
-  if(!file.exists(file_path_c)){
+  if(!file.exists(file_path_r)){
     if(verbose) print('Downloading recovered global cases from open john hopkins university github repo...')
     
     # recovered cases - global
@@ -61,7 +64,7 @@ preprocessData <- function(verbose = T){
   # file name + path
   file_name_d <- 'time_series_covid19_deaths_global.csv'
   file_path_d <- paste0(folder_name, '/', file_name_d)
-  if(!file.exists(file_path_c)){
+  if(!file.exists(file_path_d)){
     if(verbose) print('Downloading deaths global cases from open john hopkins university github repo...')
     
     # deaths cases - global
@@ -85,6 +88,9 @@ preprocessData <- function(verbose = T){
   
   # structure the data
   data <- structureData(data_raw, verbose = verbose)
+  
+  # create new folder that will hold all the csv files
+  dir.create('data/RData' , showWarnings = F) # if it already exists will only throw an error
   
   # save to RData file
   save(data, file=rdata_file_path)
