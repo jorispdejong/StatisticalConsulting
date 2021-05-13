@@ -22,11 +22,11 @@ confirmed <- data[[country]]$confirmed
 names(confirmed) <- data[[country]]$t
 
 times_confirmed <- data[[country]]$t
-NL_daily <- diff(NL_confirmed)
+daily <- diff(confirmed)
 times_daily <- times_confirmed[2:length(times_confirmed)]
   
 # plot time series
 par(mfrow=c(2,1), mar=c(3,3,2,2))
-plot(times_confirmed, NL_confirmed, type = 'l', 
+plot(times_confirmed, confirmed, type = 'l', 
      main = paste0('Cumulative infected cases - ', names(data)[country]), xlab = '', ylab = '')
-plot(times_daily, NL_daily, type='l', main = 'Daily cases', xlab = '', ylab = '')
+plot(times_daily, daily, type='l', main = 'Daily cases', xlab = '', ylab = '')
