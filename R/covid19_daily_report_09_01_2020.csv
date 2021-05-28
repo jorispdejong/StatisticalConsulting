@@ -1,0 +1,688 @@
+"Province_State","Country_Region","Confirmed","Incidence_Rate"
+NA,"Afghanistan",38193,98.1187459285768
+NA,"Albania",9606,333.796650218917
+NA,"Algeria",44833,102.239301354816
+NA,"Andorra",1184,1532.38853297094
+NA,"Angola",2729,8.3033461541785
+NA,"Antigua and Barbuda",94,95.9888897965852
+NA,"Argentina",428239,947.519941962719
+NA,"Armenia",43878,1480.74704866372
+"Australian Capital Territory","Australia",113,26.3957019387993
+"New South Wales","Australia",4079,50.2463661000246
+"Northern Territory","Australia",33,13.4364820846906
+"Queensland","Australia",1126,22.0115335744306
+"South Australia","Australia",463,26.3592371192713
+"Tasmania","Australia",230,42.9505135387488
+"Victoria","Australia",19224,289.959124572015
+"Western Australia","Australia",655,24.8992625256595
+NA,"Austria",27642,306.915082607923
+NA,"Azerbaijan",36578,360.759134742225
+NA,"Bahamas",2276,578.769631377655
+NA,"Bahrain",52440,3081.83614904474
+NA,"Bangladesh",314946,191.236371320913
+NA,"Barbados",176,61.2448716119581
+NA,"Belarus",71962,761.557364809599
+NA,"Belgium",85487,737.617191113148
+NA,"Belize",1050,264.070559653539
+NA,"Benin",2145,17.6933512098045
+NA,"Bhutan",227,29.4189307579457
+NA,"Bolivia",117267,1004.59786401627
+NA,"Bosnia and Herzegovina",20234,616.736999800355
+NA,"Botswana",1724,73.3110083452932
+"Acre","Brazil",24840,2816.5340983179
+"Alagoas","Brazil",79258,2374.8732904511
+"Amapa","Brazil",43514,5145.13480054533
+"Amazonas","Brazil",120919,2917.509229486
+"Bahia","Brazil",259418,1744.21356621608
+"Ceara","Brazil",216333,2368.93508793946
+"Distrito Federal","Brazil",163498,5422.33725161412
+"Espirito Santo","Brazil",111979,2786.4830229057
+"Goias","Brazil",135460,1930.08218166254
+"Maranhao","Brazil",152681,2157.98012799955
+"Mato Grosso","Brazil",92856,2664.85596358237
+"Mato Grosso do Sul","Brazil",49820,1792.74022970969
+"Minas Gerais","Brazil",218781,1033.50729855097
+"Para","Brazil",200985,2336.25658428907
+"Paraiba","Brazil",106605,2653.10180589115
+"Parana","Brazil",133574,1168.22198998999
+"Pernambuco","Brazil",127287,1331.86203178777
+"Piaui","Brazil",77859,2378.66179155922
+"Rio Grande do Norte","Brazil",61991,1767.71025189821
+"Rio Grande do Sul","Brazil",127799,1123.28659000659
+"Rio de Janeiro","Brazil",226800,1313.64464973907
+"Rondonia","Brazil",55768,3137.92569877196
+"Roraima","Brazil",43707,7215.22184491904
+"Santa Catarina","Brazil",180474,2518.90216430688
+"Sao Paulo","Brazil",814375,1773.5014503458
+"Sergipe","Brazil",72721,3163.57621886496
+"Tocantins","Brazil",51629,3282.47924489435
+NA,"Brunei",144,32.9155647190862
+NA,"Bulgaria",16454,236.801183574167
+NA,"Burkina Faso",1370,6.55399598091744
+NA,"Burma",919,1.6890341470508
+NA,"Burundi",445,3.74239505378158
+NA,"Cabo Verde",3970,714.044188004058
+NA,"Cambodia",274,1.63885684112976
+NA,"Cameroon",19409,73.1149681170671
+"Alberta","Canada",14066,318.729541238835
+"British Columbia","Canada",5848,114.421736842919
+"Diamond Princess","Canada",0,NA
+"Grand Princess","Canada",13,NA
+"Manitoba","Canada",1232,89.4362828190142
+"New Brunswick","Canada",191,24.4873992458907
+"Newfoundland and Labrador","Canada",269,51.5953314856195
+"Northwest Territories","Canada",5,11.1348654908249
+"Nova Scotia","Canada",1085,111.002325421988
+"Nunavut","Canada",0,NA
+"Ontario","Canada",44418,301.920352924215
+"Prince Edward Island","Canada",44,27.8202809848379
+"Quebec","Canada",62614,733.384760298882
+"Saskatchewan","Canada",1622,137.263829203853
+"Yukon","Canada",15,36.5158965869809
+NA,"Central African Republic",4711,97.5409978624214
+NA,"Chad",1017,6.19145701908192
+"Antofagasta","Chile",18192,2994.4003133981
+"Araucania","Chile",5185,541.670497187701
+"Arica y Parinacota","Chile",6721,2972.99927455456
+"Atacama","Chile",5738,1985.8519297857
+"Aysen","Chile",124,120.203958975552
+"Biobio","Chile",17632,1132.57601305237
+"Coquimbo","Chile",10011,1321.43413421051
+"Los Lagos","Chile",6659,803.539968239718
+"Los Rios","Chile",1124,292.071708281688
+"Magallanes","Chile",3643,2187.55441864375
+"Maule","Chile",11806,1129.81482367577
+"Metropolitana","Chile",274145,3854.24434344355
+"Nuble","Chile",4810,1000.81355114032
+"OHiggins","Chile",13497,1475.79970586788
+"Tarapaca","Chile",10713,3240.88359682718
+"Unknown","Chile",56,NA
+"Valparaiso","Chile",23089,1271.48932045892
+"Anhui","China",991,1.56704617330803
+"Beijing","China",935,4.34076137418756
+"Chongqing","China",583,1.87943262411348
+"Fujian","China",383,0.971834559756407
+"Gansu","China",169,0.640879787637467
+"Guangdong","China",1742,1.53534285210647
+"Guangxi","China",255,0.517661388550548
+"Guizhou","China",147,0.408333333333333
+"Hainan","China",171,1.83083511777302
+"Hebei","China",365,0.483059820010588
+"Heilongjiang","China",948,2.51258945136496
+"Henan","China",1276,1.32847475273295
+"Hong Kong","China",4822,64.3191639095594
+"Hubei","China",68139,115.15801926652
+"Hunan","China",1019,1.47702565589216
+"Inner Mongolia","China",261,1.02999210734017
+"Jiangsu","China",665,0.825984349770215
+"Jiangxi","China",935,2.01161790017212
+"Jilin","China",157,0.580621301775148
+"Liaoning","China",262,0.601055287910071
+"Macau","China",46,7.08409436013688
+"Ningxia","China",75,1.09011627906977
+"Qinghai","China",18,0.298507462686567
+"Shaanxi","China",365,0.944616977225673
+"Shandong","China",831,0.827112570916692
+"Shanghai","China",908,3.74587458745875
+"Shanxi","China",203,0.545992469069392
+"Sichuan","China",653,0.782879750629421
+"Tianjin","China",229,1.46794871794872
+"Tibet","China",1,0.0290697674418605
+"Xinjiang","China",902,3.62685967028548
+"Yunnan","China",199,0.412008281573499
+"Zhejiang","China",1278,2.22764511068503
+"Amazonas","Colombia",2704,3530.53310527621
+"Antioquia","Colombia",81909,1278.4094899691
+"Arauca","Colombia",970,369.983293537879
+"Atlantico","Colombia",64255,2534.19716767823
+"Bolivar","Colombia",25454,1229.59649487225
+"Boyaca","Colombia",3912,321.346896932419
+"Caldas","Colombia",3022,302.728260815122
+"Capital District","Colombia",213631,2882.01143841417
+"Caqueta","Colombia",6165,1535.53397477889
+"Casanare","Colombia",1088,258.737134486236
+"Cauca","Colombia",5406,369.139248665745
+"Cesar","Colombia",11211,933.803330740129
+"Choco","Colombia",3742,699.666807522447
+"Cordoba","Colombia",19953,1117.95103382316
+"Cundinamarca","Colombia",23812,815.742053948874
+"Guainia","Colombia",156,324.229953859584
+"Guaviare","Colombia",279,337.090869549458
+"Huila","Colombia",5360,487.101798823322
+"La Guajira","Colombia",5266,598.028527300809
+"Magdalena","Colombia",12529,933.783294304585
+"Meta","Colombia",9327,897.066715910599
+"Narino","Colombia",14337,879.251216736008
+"Norte de Santander","Colombia",12047,807.608020170424
+"Putumayo","Colombia",3005,863.054379606068
+"Quindio","Colombia",1344,248.933143669986
+"Risaralda","Colombia",6500,688.996513677641
+"San Andres y Providencia","Colombia",219,427.545691906005
+"Santander","Colombia",19088,873.65785182144
+"Sucre","Colombia",11778,1301.63350695078
+"Tolima","Colombia",7445,559.695742027249
+"Valle del Cauca","Colombia",47658,1064.77242717978
+"Vaupes","Colombia",340,833.394612348947
+"Vichada","Colombia",114,105.743544078362
+NA,"Comoros",427,49.1033182113513
+NA,"Congo (Brazzaville)",3979,72.1082577093677
+NA,"Congo (Kinshasa)",10104,11.2816453837637
+NA,"Costa Rica",42184,828.092971613906
+NA,"Cote d'Ivoire",18103,68.6284451883226
+NA,"Croatia",10414,253.674059769058
+NA,"Cuba",4065,35.888918632008
+NA,"Cyprus",1490,123.409651297334
+NA,"Czechia",25117,234.541434470615
+"Faroe Islands","Denmark",411,841.092806712371
+"Greenland","Denmark",14,24.660043683506
+NA,"Denmark",17084,294.948226089452
+NA,"Diamond Princess",712,NA
+NA,"Djibouti",5387,545.241811251394
+NA,"Dominica",20,27.781250434082
+NA,"Dominican Republic",94979,875.551627300537
+NA,"Ecuador",114309,647.897813644572
+NA,"Egypt",99115,96.8540364670911
+NA,"El Salvador",25820,398.075853646842
+NA,"Equatorial Guinea",4965,353.888316696187
+NA,"Eritrea",319,8.99496873895896
+NA,"Estonia",2395,180.545012246153
+NA,"Eswatini",4618,398.047172641109
+NA,"Ethiopia",53304,46.3659870447844
+NA,"Fiji",29,3.23500408279826
+NA,"Finland",8142,146.948464079926
+"French Guiana","France",9154,3064.79801260203
+"French Polynesia","France",573,203.984279326745
+"Guadeloupe","France",1269,317.149305095632
+"Martinique","France",747,199.059331405807
+"Mayotte","France",3301,1209.98632763101
+"New Caledonia","France",23,8.05629599532034
+"Reunion","France",1714,191.442498000688
+"Saint Barthelemy","France",18,182.094081942337
+"Saint Pierre and Miquelon","France",5,86.2812769628991
+"St Martin","France",213,550.971313277633
+NA,"France",309247,470.253538678905
+NA,"Gabon",8533,383.380179428933
+NA,"Gambia",3029,125.338069338559
+NA,"Georgia",1510,37.8524381607726
+"Baden-Wurttemberg","Germany",42365,382.717139015711
+"Bayern","Germany",57620,440.630338446465
+"Berlin","Germany",11346,311.290580126459
+"Brandenburg","Germany",3911,155.697819633372
+"Bremen","Germany",2018,295.467257015517
+"Hamburg","Germany",6312,342.823810178152
+"Hessen","Germany",15596,248.906406179952
+"Mecklenburg-Vorpommern","Germany",1009,62.6834609470856
+"Niedersachsen","Germany",16837,210.925270042473
+"Nordrhein-Westfalen","Germany",59023,329.137058430457
+"Rheinland-Pfalz","Germany",9128,223.460185994863
+"Saarland","Germany",3154,318.422144574153
+"Sachsen","Germany",6013,147.452008209053
+"Sachsen-Anhalt","Germany",2253,102.023211299444
+"Schleswig-Holstein","Germany",4063,140.262476904849
+"Thuringen","Germany",3637,169.70386978016
+"Unknown","Germany",1730,NA
+NA,"Ghana",44460,143.082672080165
+NA,"Greece",10524,100.968468364748
+NA,"Grenada",24,21.329730978768
+NA,"Guatemala",74893,418.033099371066
+NA,"Guinea",9479,72.1781019603448
+NA,"Guinea-Bissau",2205,112.04279679146
+NA,"Guyana",1373,174.557789053332
+NA,"Haiti",8224,72.1769452454117
+NA,"Holy See",12,1483.31273176761
+NA,"Honduras",61769,623.639017313961
+NA,"Hungary",6257,64.7699099929091
+NA,"Iceland",2116,620.07326007326
+"Andaman and Nicobar Islands","India",3160,757.728349590923
+"Andhra Pradesh","India",445139,825.808868840594
+"Arunachal Pradesh","India",4212,268.2020149536
+"Assam","India",111724,313.769420703586
+"Bihar","India",138349,110.856636245121
+"Chandigarh","India",4550,392.758398339884
+"Chhattisgarh","India",33387,113.421449913204
+"Dadra and Nagar Haveli and Daman and Diu","India",2386,387.51128752493
+"Delhi","India",177060,946.29222440241
+"Goa","India",18006,1135.13002364066
+"Gujarat","India",97629,152.850059694799
+"Haryana","India",66426,235.514005967518
+"Himachal Pradesh","India",6255,83.9377049378318
+"Jammu and Kashmir","India",38223,280.92092498192
+"Jharkhand","India",43833,113.574801935267
+"Karnataka","India",351481,520.229465122213
+"Kerala","India",76525,214.359086779029
+"Ladakh","India",2733,996.394314026446
+"Lakshadweep","India",0,0
+"Madhya Pradesh","India",65490,76.7230483640471
+"Maharashtra","India",808306,656.389703315599
+"Manipur","India",6382,206.433999828565
+"Meghalaya","India",2440,72.4743146870387
+"Mizoram","India",1020,82.308245995139
+"Nagaland","India",4003,177.935231220232
+"Odisha","India",106561,229.873656532029
+"Puducherry","India",14766,1044.60992315757
+"Punjab","India",55508,184.158830455401
+"Rajasthan","India",83163,102.628952619356
+"Sikkim","India",1670,241.940975094567
+"Tamil Nadu","India",433969,557.50505705412
+"Telangana","India",130589,331.757968425566
+"Tripura","India",12702,304.619364889489
+"Unknown","India",0,NA
+"Uttar Pradesh","India",235757,99.1063979109874
+"Uttarakhand","India",20398,181.301728277079
+"West Bengal","India",165721,166.371006531388
+NA,"Indonesia",177571,64.9198044946911
+NA,"Iran",376894,448.720977818222
+NA,"Iraq",238338,592.548902289845
+NA,"Ireland",29025,587.812862256764
+NA,"Israel",119158,1369.50422856295
+"Abruzzo","Italy",3780,288.202015889233
+"Basilicata","Italy",524,93.0944855730196
+"Calabria","Italy",1513,77.704068190584
+"Campania","Italy",7168,123.550164331371
+"Emilia-Romagna","Italy",32021,718.043842360887
+"Friuli Venezia Giulia","Italy",3786,311.548526192788
+"Lazio","Italy",11316,192.47902988936
+"Liguria","Italy",10970,707.449827168137
+"Lombardia","Italy",100317,997.129984829891
+"Marche","Italy",7256,475.718741128626
+"Molise","Italy",528,172.765258477114
+"P.A. Bolzano","Italy",2948,553.80430494554
+"P.A. Trento","Italy",5099,941.786198464033
+"Piemonte","Italy",32923,755.73764245114
+"Puglia","Italy",5479,135.98729031363
+"Sardegna","Italy",2243,136.802409869291
+"Sicilia","Italy",4350,87.0018966413468
+"Toscana","Italy",11898,319.011937073836
+"Umbria","Italy",1803,204.418292205915
+"Valle d'Aosta","Italy",1241,987.538395429154
+"Veneto","Italy",23026,469.357628661595
+NA,"Jamaica",2459,83.0417528800359
+"Aichi","Japan",4564,60.4324095145824
+"Akita","Japan",49,5.06989208372565
+"Aomori","Japan",38,3.04885142545839
+"Chiba","Japan",3067,48.998447450563
+"Ehime","Japan",114,8.51244945733135
+"Fukui","Japan",232,30.2108115639694
+"Fukuoka","Japan",4638,90.8756212920131
+"Fukushima","Japan",167,9.04894503930872
+"Gifu","Japan",558,28.0883746848238
+"Gunma","Japan",445,22.9091418286952
+"Hiroshima","Japan",455,16.2257945914256
+"Hokkaido","Japan",1786,34.0187301108999
+"Hyogo","Japan",2300,42.0768396268699
+"Ibaraki","Japan",549,19.1937438883309
+"Ishikawa","Japan",653,57.3990747585591
+"Iwate","Japan",22,1.79325995096249
+"Kagawa","Japan",79,8.26059997051279
+"Kagoshima","Japan",363,22.6553152927123
+"Kanagawa","Japan",5023,54.608106656601
+"Kochi","Japan",128,18.3373470156684
+"Kumamoto","Japan",523,29.9273218136987
+"Kyoto","Japan",1474,57.0663777987787
+"Mie","Japan",379,21.2815896842127
+"Miyagi","Japan",210,9.10523702883108
+"Miyazaki","Japan",359,33.4482125703787
+"Nagano","Japan",260,12.6904172706817
+"Nagasaki","Japan",232,17.4893179467541
+"Nara","Japan",523,39.3196719401138
+"Niigata","Japan",144,6.47742392850363
+"Oita","Japan",147,12.9465913474495
+"Okayama","Japan",145,7.6736385642146
+"Okinawa","Japan",2147,147.746165618841
+"Osaka","Japan",8658,98.281794041181
+"Port Quarantine","Japan",797,NA
+"Saga","Japan",235,28.8445841531537
+"Saitama","Japan",3978,54.1247096987588
+"Shiga","Japan",452,31.9673423893325
+"Shimane","Japan",137,20.315980223802
+"Shizuoka","Japan",482,13.228936349604
+"Tochigi","Japan",306,15.8222121107141
+"Tokushima","Japan",133,18.2698079747025
+"Tokyo","Japan",20997,150.833333153744
+"Tottori","Japan",22,3.95998257607666
+"Toyama","Japan",394,37.7574743507919
+"Unknown","Japan",8,NA
+"Wakayama","Japan",230,24.866666017971
+"Yamagata","Japan",78,7.23786405064278
+"Yamaguchi","Japan",170,12.5153128533735
+"Yamanashi","Japan",173,21.3328466649239
+NA,"Jordan",2097,20.5524965843848
+NA,"Kazakhstan",131596,564.230991089119
+NA,"Kenya",34315,63.8165712936083
+NA,"Korea, South",20449,39.8855585430335
+NA,"Kosovo",13601,700.576568494989
+NA,"Kuwait",85811,2009.36035834151
+NA,"Kyrgyzstan",43958,673.769360829565
+NA,"Laos",22,0.302382388370043
+NA,"Latvia",1404,74.4352937808358
+NA,"Lebanon",17777,260.451997101433
+NA,"Lesotho",1085,50.6476362258035
+NA,"Liberia",1305,25.8023594626545
+NA,"Libya",14624,212.827669692737
+NA,"Liechtenstein",107,280.567427957102
+NA,"Lithuania",2923,107.593199992212
+NA,"Luxembourg",6625,1070.64807596457
+NA,"MS Zaandam",9,NA
+NA,"Madagascar",14957,54.0139024858565
+NA,"Malawi",5576,29.1480037459576
+NA,"Malaysia",9354,28.9007000494779
+NA,"Maldives",8003,1480.55100251229
+NA,"Mali",2777,13.7130154738318
+NA,"Malta",1909,432.351389118515
+NA,"Mauritania",7075,152.161663433455
+NA,"Mauritius",356,27.992548949611
+"Aguascalientes","Mexico",5731,399.47443077856
+"Baja California","Mexico",16987,467.334714768184
+"Baja California Sur","Mexico",7777,966.437515222913
+"Campeche","Mexico",5592,558.855186350022
+"Chiapas","Mexico",6270,109.417075730054
+"Chihuahua","Mexico",7859,206.734890846661
+"Ciudad de Mexico","Mexico",99564,1103.97958895156
+"Coahuila","Mexico",21919,680.984987821246
+"Colima","Mexico",3713,472.901459970222
+"Durango","Mexico",6586,352.381706541908
+"Guanajuato","Mexico",31998,513.762057103405
+"Guerrero","Mexico",14893,407.241031564256
+"Hidalgo","Mexico",10454,338.710231355871
+"Jalisco","Mexico",20595,244.89597896142
+"Mexico","Mexico",68516,393.142217114161
+"Michoacan","Mexico",15253,316.098081796725
+"Morelos","Mexico",5234,256.059270333816
+"Nayarit","Mexico",5037,390.898134445056
+"Nuevo Leon","Mexico",29524,526.260157254178
+"Oaxaca","Mexico",13807,333.213228229703
+"Puebla","Mexico",27070,409.875097869603
+"Queretaro","Mexico",6480,284.255782828582
+"Quintana Roo","Mexico",10364,601.418591169406
+"San Luis Potosi","Mexico",18284,637.930709643835
+"Sinaloa","Mexico",16244,514.592257547026
+"Sonora","Mexico",21659,704.416138574093
+"Tabasco","Mexico",28471,1106.83605678527
+"Tamaulipas","Mexico",24793,679.148261026538
+"Tlaxcala","Mexico",6479,469.489011319475
+"Veracruz","Mexico",28581,334.677539285764
+"Yucatan","Mexico",14923,660.573379286777
+"Zacatecas","Mexico",5379,322.78661038654
+NA,"Moldova",37208,922.368400503426
+NA,"Monaco",154,356.742431964122
+NA,"Mongolia",306,9.33412886954548
+NA,"Montenegro",4917,782.884492295347
+NA,"Morocco",63781,172.798796485277
+NA,"Mozambique",4039,12.9225525096675
+NA,"Namibia",7692,302.725473805509
+NA,"Nepal",40529,139.098970621627
+"Aruba","Netherlands",2104,1970.66481838788
+"Bonaire, Sint Eustatius and Saba","Netherlands",16,61.0197932954502
+"Curacao","Netherlands",71,43.2663010359537
+"Drenthe","Netherlands",610,123.561320850264
+"Flevoland","Netherlands",1331,314.641589897428
+"Friesland","Netherlands",825,126.931473928275
+"Gelderland","Netherlands",7480,358.589267634155
+"Groningen","Netherlands",600,102.412497055641
+"Limburg","Netherlands",5443,487.199707125217
+"Noord-Brabant","Netherlands",12266,478.588192145395
+"Noord-Holland","Netherlands",12554,435.974380514578
+"Overijssel","Netherlands",3505,301.529758105172
+"Sint Maarten","Netherlands",482,1124.01473811856
+"Unknown","Netherlands",616,NA
+"Utrecht","Netherlands",5524,407.72522685436
+"Zeeland","Netherlands",1054,274.845627503338
+"Zuid-Holland","Netherlands",19321,520.964781152189
+NA,"New Zealand",1757,36.4354024370038
+NA,"Nicaragua",4668,70.4651211236258
+NA,"Niger",1176,4.8581719492126
+NA,"Nigeria",54247,26.3156634732173
+NA,"North Macedonia",14455,693.824458332133
+NA,"Norway",10871,200.526004926546
+NA,"Oman",85928,1682.67790331848
+"Azad Jammu and Kashmir","Pakistan",2299,56.8304573677635
+"Balochistan","Pakistan",12879,104.330641048157
+"Gilgit-Baltistan","Pakistan",2903,286.409414513252
+"Islamabad","Pakistan",15649,779.887290363864
+"Khyber Pakhtunkhwa","Pakistan",36118,118.329001079206
+"Punjab","Pakistan",96832,88.0191351447321
+"Sindh","Pakistan",129469,270.368922256713
+NA,"Panama",93552,2168.18146421777
+NA,"Papua New Guinea",460,5.14137265932024
+NA,"Paraguay",18338,257.103720559184
+"Amazonas","Peru",10883,2549.90627928772
+"Ancash","Peru",18459,1563.52702015924
+"Apurimac","Peru",2842,659.856048293476
+"Arequipa","Peru",32903,2197.34205956992
+"Ayacucho","Peru",8208,1228.37473810236
+"Cajamarca","Peru",15189,1044.85106968425
+"Callao","Peru",27489,2432.87016550137
+"Cusco","Peru",15235,1122.61439834942
+"Huancavelica","Peru",4714,1290.44620859567
+"Huanuco","Peru",12262,1612.78442719979
+"Ica","Peru",21013,2154.73748974569
+"Junin","Peru",14995,1101.3587954462
+"La Libertad","Peru",22616,1121.38040460135
+"Lambayeque","Peru",22253,1697.66554775709
+"Lima","Peru",309162,2908.80180646375
+"Loreto","Peru",15573,1515.47294667186
+"Madre de Dios","Peru",6059,3486.19102416571
+"Moquegua","Peru",9008,4674.62376751427
+"Pasco","Peru",3860,1419.63957337256
+"Piura","Peru",28742,1403.41796875
+"Puno","Peru",8756,707.269789983845
+"San Martin","Peru",13674,1520.00889284126
+"Tacna","Peru",8639,2328.57142857143
+"Tumbes","Peru",5735,2280.31809145129
+"Ucayali","Peru",13768,2337.12442709217
+"Unknown","Peru",0,NA
+NA,"Philippines",224264,204.655757880112
+NA,"Poland",67922,179.466559814282
+NA,"Portugal",58243,571.194210052324
+NA,"Qatar",118994,4130.21596218059
+NA,"Romania",88593,460.518060335959
+"Adygea Republic","Russia",3405,751.032255787691
+"Altai Krai","Russia",11781,501.302083333333
+"Altai Republic","Russia",2157,989.163682055186
+"Amur Oblast","Russia",3418,428.093343887458
+"Arkhangelsk Oblast","Russia",10888,942.661130292945
+"Astrakhan Oblast","Russia",5730,563.137214819649
+"Bashkortostan Republic","Russia",7825,192.577793430107
+"Belgorod Oblast","Russia",7405,477.780157896503
+"Bryansk Oblast","Russia",8252,681.430442401291
+"Buryatia Republic","Russia",5291,537.424162858516
+"Chechen Republic","Russia",2274,158.248438914641
+"Chelyabinsk Oblast","Russia",13753,393.726259906855
+"Chukotka Autonomous Okrug","Russia",172,348.545027154089
+"Chuvashia Republic","Russia",7803,633.814657745771
+"Dagestan Republic","Russia",11073,361.403903867149
+"Ingushetia Republic","Russia",4424,906.477503006907
+"Irkutsk Oblast","Russia",16886,702.355674144568
+"Ivanovo Oblast","Russia",7433,732.570768524195
+"Jewish Autonomous Okrug","Russia",632,390.08974533065
+"Kabardino-Balkarian Republic","Russia",6542,755.577320206785
+"Kaliningrad Oblast","Russia",3446,346.471291445095
+"Kalmykia Republic","Russia",4326,1570.7319552817
+"Kaluga Oblast","Russia",8079,798.275984728118
+"Kamchatka Krai","Russia",3864,1224.50143714131
+"Karachay-Cherkess Republic","Russia",5163,1107.21523466401
+"Karelia Republic","Russia",3143,504.912576066212
+"Kemerovo Oblast","Russia",6527,242.20029337146
+"Khabarovsk Krai","Russia",10150,764.133457602262
+"Khakassia Republic","Russia",3434,638.868269232558
+"Khanty-Mansi Autonomous Okrug","Russia",19676,1284.13051976743
+"Kirov Oblast","Russia",6619,515.804550675713
+"Komi Republic","Russia",6592,783.947159678096
+"Kostroma Oblast","Russia",3578,556.173871952547
+"Krasnodar Krai","Russia",11294,201.555478618415
+"Krasnoyarsk Krai","Russia",16979,590.266563810079
+"Kurgan Oblast","Russia",3003,355.158910846007
+"Kursk Oblast","Russia",7145,640.670996389108
+"Leningrad Oblast","Russia",6842,377.215770508144
+"Lipetsk Oblast","Russia",5125,445.574295275348
+"Magadan Oblast","Russia",1943,1348.45340791583
+"Mari El Republic","Russia",4276,626.673486406198
+"Mordovia Republic","Russia",5493,682.312783210112
+"Moscow","Russia",263059,2103.38362517699
+"Moscow Oblast","Russia",68379,911.308696008535
+"Murmansk Oblast","Russia",12892,1710.81948678069
+"Nenets Autonomous Okrug","Russia",314,713.685023978908
+"Nizhny Novgorod Oblast","Russia",27820,860.035019686208
+"North Ossetia - Alania Republic","Russia",4943,704.366846451447
+"Novgorod Oblast","Russia",4363,719.401921922714
+"Novosibirsk Oblast","Russia",11456,410.778783648738
+"Omsk Oblast","Russia",9324,475.694626905725
+"Orel Oblast","Russia",7080,947.477875454836
+"Orenburg Oblast","Russia",10030,507.149647068341
+"Penza Oblast","Russia",8200,615.77510691583
+"Perm Krai","Russia",7923,302.044662810193
+"Primorsky Krai","Russia",9681,506.05398641009
+"Pskov Oblast","Russia",4638,728.619769820249
+"Rostov Oblast","Russia",17060,404.222107016026
+"Ryazan Oblast","Russia",7190,641.120525308656
+"Saint Petersburg","Russia",36852,688.573385140141
+"Sakha (Yakutiya) Republic","Russia",7425,769.964638661039
+"Sakhalin Oblast","Russia",4473,912.520069117326
+"Samara Oblast","Russia",8586,268.857440424561
+"Saratov Oblast","Russia",12438,505.004161676039
+"Smolensk Oblast","Russia",6176,650.551747093795
+"Stavropol Krai","Russia",12110,432.395916125904
+"Sverdlovsk Oblast","Russia",25432,587.988317916905
+"Tambov Oblast","Russia",6776,655.603201387061
+"Tatarstan Republic","Russia",6536,167.835730521965
+"Tomsk Oblast","Russia",5748,533.071187446674
+"Tula Oblast","Russia",9283,622.245459511816
+"Tver Oblast","Russia",5432,423.094807663998
+"Tyumen Oblast","Russia",7820,211.786372007366
+"Tyva Republic","Russia",6841,2126.36997159038
+"Udmurt Republic","Russia",3211,212.221191188095
+"Ulyanovsk Oblast","Russia",12164,975.760016300102
+"Vladimir Oblast","Russia",6345,460.337348558444
+"Volgograd Oblast","Russia",12216,484.516570181131
+"Vologda Oblast","Russia",3416,290.306104671668
+"Voronezh Oblast","Russia",14241,610.214897110595
+"Yamalo-Nenets Autonomous Okrug","Russia",13457,2498.76055386067
+"Yaroslavl Oblast","Russia",7269,574.313967783428
+"Zabaykalsky Krai","Russia",4632,431.764923014972
+NA,"Rwanda",4142,31.9791010166683
+NA,"Saint Kitts and Nevis",17,31.9596931869454
+NA,"Saint Lucia",26,14.1589836028078
+NA,"Saint Vincent and the Grenadines",61,54.9812072430981
+NA,"Samoa",0,NA
+NA,"San Marino",715,2106.78295715717
+NA,"Sao Tome and Principe",896,408.831863333349
+NA,"Saudi Arabia",316670,909.608806169105
+NA,"Senegal",13655,81.55194150955
+NA,"Serbia",31482,360.31437377609
+NA,"Seychelles",136,138.295708765507
+NA,"Sierra Leone",2028,25.4231391935675
+NA,"Singapore",56852,971.772082423202
+NA,"Slovakia",3989,73.0633852799533
+NA,"Slovenia",2924,140.649141001245
+NA,"Somalia",3310,20.8264921033304
+NA,"South Africa",628259,1059.30345114687
+NA,"South Sudan",2527,22.5751400627977
+"Andalusia","Spain",30767,365.082727126559
+"Aragon","Spain",26641,2017.36198929869
+"Asturias","Spain",3354,328.114223663551
+"Baleares","Spain",8337,701.637743852149
+"C. Valenciana","Spain",25006,502.636297834218
+"Canarias","Spain",7302,330.871208087721
+"Cantabria","Spain",4199,721.922973105403
+"Castilla - La Mancha","Spain",24157,1187.14792097999
+"Castilla y Leon","Spain",29248,1214.75263245551
+"Catalonia","Spain",110667,1462.60502474681
+"Ceuta","Spain",290,341.864220962171
+"Extremadura","Spain",5158,484.126507381099
+"Galicia","Spain",14663,542.985386460952
+"La Rioja","Spain",5786,1845.19614377605
+"Madrid","Spain",128178,1929.91228533757
+"Melilla","Spain",355,419.180767277923
+"Murcia","Spain",6536,439.346814433108
+"Navarra","Spain",10135,1559.3603160878
+"Pais Vasco","Spain",30194,1386.39410803166
+"Unknown","Spain",0,NA
+NA,"Sri Lanka",3092,14.4396576885807
+NA,"Sudan",13189,30.0780384731157
+NA,"Suriname",4089,697.02744811927
+"Blekinge","Sweden",609,381.56460283448
+"Dalarna","Sweden",2153,747.657709590716
+"Gavleborg","Sweden",3200,1113.50049759553
+"Gotland","Sweden",318,532.788258553095
+"Halland","Sweden",2152,644.604730296422
+"Jamtland Harjedalen","Sweden",1189,908.951914991209
+"Jonkoping","Sweden",4951,1361.66491106961
+"Kalmar","Sweden",886,360.975530259202
+"Kronoberg","Sweden",1407,698.370468905886
+"Norrbotten","Sweden",1664,665.352488874139
+"Orebro","Sweden",2659,872.361017699841
+"Ostergotland","Sweden",3812,818.91319992696
+"Skane","Sweden",4802,348.51980691335
+"Sormland","Sweden",2429,816.360825435236
+"Stockholm","Sweden",23053,969.802880086964
+"Uppsala","Sweden",3777,984.329433717388
+"Varmland","Sweden",1180,417.826311726756
+"Vasterbotten","Sweden",866,318.691671328054
+"Vasternorrland","Sweden",1853,755.256840311885
+"Vastmanland","Sweden",2741,993.673983577734
+"Vastra Gotaland","Sweden",18820,1090.45756920668
+NA,"Switzerland",42393,489.830978097474
+NA,"Syria",2830,16.1708214725881
+NA,"Taiwan*",488,2.04897598436396
+NA,"Tajikistan",8619,90.3682482525555
+NA,"Tanzania",509,0.852107987092757
+NA,"Thailand",3417,4.90687833741151
+NA,"Timor-Leste",27,2.04787165457411
+NA,"Togo",1416,17.1040582639598
+NA,"Trinidad and Tobago",1797,128.403826819894
+NA,"Tunisia",3963,33.531839340268
+NA,"Turkey",271705,322.157938977437
+NA,"Uganda",3037,6.63955750858092
+"Cherkasy Oblast","Ukraine",1594,132.1340140639
+"Chernihiv Oblast","Ukraine",1941,192.991265181532
+"Chernivtsi Oblast","Ukraine",10420,1152.1781917658
+"Crimea Republic*","Ukraine",2453,128.178934238929
+"Dnipropetrovsk Oblast","Ukraine",2398,74.7861282023854
+"Donetsk Oblast","Ukraine",1448,34.7583872012321
+"Ivano-Frankivsk Oblast","Ukraine",9348,680.719926131548
+"Kharkiv Oblast","Ukraine",9338,349.006091348551
+"Kherson Oblast","Ukraine",400,38.5490150726649
+"Khmelnytskyi Oblast","Ukraine",2519,199.176883146663
+"Kiev","Ukraine",13546,459.061949301884
+"Kiev Oblast","Ukraine",5755,325.520096835865
+"Kirovohrad Oblast","Ukraine",816,86.29907069861
+"Luhansk Oblast","Ukraine",320,14.8710425019042
+"Lviv Oblast","Ukraine",14703,582.984836367342
+"Mykolaiv Oblast","Ukraine",1284,50.9115506968419
+"Odessa Oblast","Ukraine",7494,314.833206458996
+"Poltava Oblast","Ukraine",808,57.6961938363613
+"Rivne Oblast","Ukraine",9269,800.915232942856
+"Sevastopol*","Ukraine",523,118.002486400383
+"Sumy Oblast","Ukraine",1532,141.665849837898
+"Ternopil Oblast","Ukraine",6194,592.229120194592
+"Vinnytsia Oblast","Ukraine",4044,259.165313375981
+"Volyn Oblast","Ukraine",5523,533.453101909536
+"Zakarpattia Oblast","Ukraine",7600,604.709413256822
+"Zaporizhia Oblast","Ukraine",1627,95.3784537317773
+"Zhytomyr Oblast","Ukraine",3382,277.169267484734
+NA,"United Arab Emirates",70805,715.896222599693
+"Anguilla","United Kingdom",3,19.9973336888415
+"Bermuda","United Kingdom",172,276.203169913124
+"British Virgin Islands","United Kingdom",47,155.438700929325
+"Cayman Islands","United Kingdom",205,311.929397443701
+"Channel Islands","United Kingdom",630,369.503633452396
+"England","United Kingdom",291179,520.174285244707
+"Falkland Islands (Malvinas)","United Kingdom",13,373.241458512776
+"Gibraltar","United Kingdom",290,860.764002255795
+"Isle of Man","United Kingdom",336,395.145357042055
+"Montserrat","United Kingdom",13,260.05201040208
+"Northern Ireland","United Kingdom",7294,387.64880952381
+"Saint Helena, Ascension and Tristan da Cunha","United Kingdom",0,NA
+"Scotland","United Kingdom",20632,377.647209561986
+"Turks and Caicos Islands","United Kingdom",538,1389.5345833979
+"Unknown","United Kingdom",0,NA
+"Wales","United Kingdom",18063,575.511374498184
+NA,"Uruguay",1611,46.3767014506321
+NA,"Uzbekistan",42127,125.86796594684
+NA,"Venezuela",47756,167.942381935426
+NA,"Vietnam",1044,1.07254489209073
+NA,"West Bank and Gaza",23281,456.363488098206
+NA,"Yemen",1962,6.57816034671532
+NA,"Zambia",12381,67.3467669309043
+NA,"Zimbabwe",6559,44.1299348371959
+"Unknown","China",0,0

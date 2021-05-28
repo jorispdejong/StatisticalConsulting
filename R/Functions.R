@@ -77,7 +77,7 @@ preprocessData <- function(rdata_file_path, verbose = T){
   }else{
     if(verbose) print('Importing deaths cases file from folder')
     # read csv file from file
-    deaths_raw <- read_csv(file = file_path_c, 
+    deaths_raw <- read_csv(file = file_path_d, 
                            col_types = cols(`Province/State` = col_character(), 
                                             `Country/Region` = col_character())) 
   }

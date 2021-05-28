@@ -27,6 +27,7 @@ covid_data <- global_covid_data$Netherlands
 confirmed <- covid_data$confirmed
 names(confirmed) <- covid_data$t
 daily <- diff(confirmed)
+# plot(as.Date(names(daily)), daily, type = 'l')
 
 ##########
 ### R0 ###
