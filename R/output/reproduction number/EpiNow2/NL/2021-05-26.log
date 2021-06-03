@@ -1,0 +1,5 @@
+DEBUG [2021-06-02 22:58:43] epinow: Running in exact mode for 2000 samples (across 4 chains each with a warm up of 250 iterations each) and 464 time steps of which 14 are a forecast
+WARN [2021-06-03 07:33:35] epinow: There were 959 transitions after warmup that exceeded the maximum treedepth. Increase max_treedepth above 15. See
+http://mc-stan.org/misc/warnings.html#maximum-treedepth-exceeded - 
+WARN [2021-06-03 07:33:35] epinow: Examine the pairs() plot to diagnose sampling problems
+ - 
